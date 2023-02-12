@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenameFileByModificationDate", "RenameFileByModificationDate\RenameFileByModificationDate.csproj", "{2BD3ACD1-A201-442A-B7C5-6FAAF398AAC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{5E62DFBA-AF80-4814-A9FB-51B6A047CC1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenameFileByModificationDateTest", "RenameFileByModificationDateTest\RenameFileByModificationDateTest.csproj", "{7A5D3465-5FFA-4384-8E73-1D27DAFA40C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD3ACD1-A201-442A-B7C5-6FAAF398AAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD3ACD1-A201-442A-B7C5-6FAAF398AAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD3ACD1-A201-442A-B7C5-6FAAF398AAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD3ACD1-A201-442A-B7C5-6FAAF398AAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5D3465-5FFA-4384-8E73-1D27DAFA40C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5D3465-5FFA-4384-8E73-1D27DAFA40C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5D3465-5FFA-4384-8E73-1D27DAFA40C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5D3465-5FFA-4384-8E73-1D27DAFA40C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7A5D3465-5FFA-4384-8E73-1D27DAFA40C0} = {5E62DFBA-AF80-4814-A9FB-51B6A047CC1A}
+	EndGlobalSection
+EndGlobal
